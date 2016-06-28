@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package prueba;
-
+//esto es un comentario
 
 
 /**
