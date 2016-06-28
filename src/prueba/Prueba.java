@@ -5,6 +5,7 @@
  */
 package prueba;
 //esto es un comentario
+//prueba2
 
 
 /**
